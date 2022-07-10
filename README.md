@@ -8,4 +8,4 @@
 atypicalwizard/atypicalwizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[<img src="https://api.daily.dev/devcards/e4745a0c11ae473e8c50e37bef7e67c0.png?r=bvu" width="400" alt="wizard's Dev Card"/>](https://app.daily.dev/atypicalwizard)
+[<img src="https://api.daily.dev/devcards/e4745a0c11ae473e8c50e37bef7e67c0.png?r=bvu" width="300" alt="wizard's Dev Card"/>](https://app.daily.dev/atypicalwizard)
